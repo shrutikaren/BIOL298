@@ -1,0 +1,3 @@
+[submodule "PhysiCell"]
+	path = PhysiCell
+	url = git@github.com:MathCancer/PhysiCell.git
