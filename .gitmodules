@@ -1,3 +1,9 @@
 [submodule "PhysiCell"]
 	path = PhysiCell
 	url = git@github.com:MathCancer/PhysiCell.git
+[submodule "follicle_fork"]
+	path = follicle_fork
+	url = git@github.com:josephabrams/follicle_fork.git
+[submodule "PhysiCell_Cryo"]
+	path = PhysiCell_Cryo
+	url = git@github.com:faamiri23/PhysiCell_Cryo.git
